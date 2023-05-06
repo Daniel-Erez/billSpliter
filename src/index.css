@@ -1,0 +1,14 @@
+*, *::before, *::after{
+  box-sizing: border-box;
+  font-family: inherit;
+}
+
+img, picture, svg, video{
+  display: block;
+  max-width: 100%;
+}
+
+body{
+  margin: 0;
+  font-family: system-ui;
+}
